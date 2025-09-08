@@ -31,4 +31,4 @@ jobs:
 
     - name: Push Docker Image
       run: |
-        docker push miguelacs22/docker-graphql:0.0.2 .
+        docker push miguelacs22/docker-graphql:0.0.2
